@@ -25,7 +25,7 @@ ProcessOrder(function(){console.log('now processing the order')});
 
 function ProcessOrder(callback)
 {
-	// assuming that there is a process here taking 5 seconds to be done.
+	
 	setTimeout(callback,5000);
 };
 
