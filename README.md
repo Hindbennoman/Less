@@ -4,7 +4,7 @@ Simple ChatBot app using node.js and api.ai
 ## First run
 
 ```bash
-cd nodejs-chatbot
+cd ChatBot
 npm install
 node server.js
 
